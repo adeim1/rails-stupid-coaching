@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: rgb(174, 239, 218);
+}
+
+/* .questions {
+  color:blueviolet;
+} */
